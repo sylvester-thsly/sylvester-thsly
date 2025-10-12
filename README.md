@@ -1,216 +1,266 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=00D9FF&center=true&vCenter=true&width=940&lines=Hi+%F0%9F%91%8B+I'm+Sylvester;Aspiring+Cloud+%26+Security+Professional;16+Years+Old+%7C+Self-Taught+Developer;Building+My+Future+in+Tech" alt="Typing SVG" />
-</h1>
-
-<div align="center">
-  <img src="https://img.shields.io/badge/Age-16-blue?style=for-the-badge" alt="Age"/>
-  <img src="https://img.shields.io/badge/Focus-Cloud%20%26%20Security-orange?style=for-the-badge" alt="Focus"/>
-  <img src="https://img.shields.io/badge/Based-Hamburg%2C%20Germany-green?style=for-the-badge" alt="Location"/>
-  <img src="https://img.shields.io/badge/Status-Learning%20Daily-success?style=for-the-badge" alt="Status"/>
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
-</div>
-
-<br/>
-
-## 🎯 About Me
-
-```yaml
-name: Sylvester
-age: 16
-location: Hamburg, Germany
-current_mission: "Mastering AWS Cloud & Cybersecurity"
-status: "On a 6-month intensive learning journey"
-goal: "Land first cloud/security role by mid-2026"
-motto: "Learning in public, one commit at a time"
+```ascii
+╔══════════════════════════════════════════════════════════════════════╗
+║                                                                      ║
+║   ███████╗██╗   ██╗██╗     ██╗   ██╗███████╗███████╗████████╗███████╗██████╗  
+║   ██╔════╝╚██╗ ██╔╝██║     ██║   ██║██╔════╝██╔════╝╚══██╔══╝██╔════╝██╔══██╗ 
+║   ███████╗ ╚████╔╝ ██║     ██║   ██║█████╗  ███████╗   ██║   █████╗  ██████╔╝ 
+║   ╚════██║  ╚██╔╝  ██║     ╚██╗ ██╔╝██╔══╝  ╚════██║   ██║   ██╔══╝  ██╔══██╗ 
+║   ███████║   ██║   ███████╗ ╚████╔╝ ███████╗███████║   ██║   ███████╗██║  ██║ 
+║   ╚══════╝   ╚═╝   ╚══════╝  ╚═══╝  ╚══════╝╚══════╝   ╚═╝   ╚══════╝╚═╝  ╚═╝ 
+║                                                                      ║
+║              Cloud Engineer | Security Specialist | Developer       ║
+║                          Hamburg, Germany                           ║
+╚══════════════════════════════════════════════════════════════════════╝
 ```
 
-<br/>
-
-## 🚀 My Learning Journey
-
 <div align="center">
 
-```diff
-@@                   6-MONTH ROADMAP                    @@
-+ Week 1/26    █░░░░░░░░░░░░░░░░░░░ 4% Complete
-+ Days Active  2/180 🔥
-+ Modules Done 1/12 ✅
-```
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sylvester-abekah-78b2bb36a/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sylvestertech.sly@gmail.com)
+[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sylvester-thsly)
 
 </div>
 
-<br/>
+---
 
-## 🏆 Certification Targets
-
-<table align="center">
-  <tr>
-    <td align="center" width="300">
-      <img src="https://img.shields.io/badge/AWS-Cloud%20Practitioner-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
-      <br/>
-      <b>🎯 December 2025</b>
-      <br/>
-      <sub>In Progress...</sub>
-    </td>
-    <td align="center" width="300">
-      <img src="https://img.shields.io/badge/AWS-Solutions%20Architect-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
-      <br/>
-      <b>🎯 February 2026</b>
-      <br/>
-      <sub>Coming Soon</sub>
-    </td>
-    <td align="center" width="300">
-      <img src="https://img.shields.io/badge/CompTIA-Security%2B-E21836?style=for-the-badge&logo=comptia&logoColor=white"/>
-      <br/>
-      <b>🎯 April 2026</b>
-      <br/>
-      <sub>Coming Soon</sub>
-    </td>
-  </tr>
-</table>
-
-<br/>
-
-## 💻 Tech Stack & Tools
-
-<div align="center">
-
-### Currently Learning
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Cybersecurity](https://img.shields.io/badge/Cybersecurity-FF0000?style=for-the-badge&logo=security&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
-### Tools I Use
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![AWS Console](https://img.shields.io/badge/AWS%20Console-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-
-</div>
-
-<br/>
-
-## 🌟 Featured Project
-
-<div align="center">
-
-<a href="https://github.com/sylvester-thsly/cloud-security-learning-journey">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=sylvester-thsly&repo=cloud-security-learning-journey&theme=tokyonight&hide_border=true" />
-</a>
-
-### ☁️ [Cloud Security Learning Journey](https://github.com/sylvester-thsly/cloud-security-learning-journey)
-
-*My complete 6-month roadmap documenting daily progress, projects, and certifications*
-
-**📦 Upcoming Projects:**
-```
-├── 🌐 Static Website on AWS S3
-├── ⚡ Serverless API with Lambda
-├── 🔄 Auto-scaling Web Application
-└── 🔐 Secure Three-Tier Architecture
-```
-
-</div>
-
-<br/>
-
-## 📊 GitHub Analytics
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sylvester-thsly&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sylvester-thsly&layout=compact&langs_count=7&theme=tokyonight&hide_border=true"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sylvester-thsly&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-</div>
-
-<br/>
-
-## 🔥 Current Activity
-
-<div align="center">
+### `$ whoami`
 
 ```javascript
 const sylvester = {
-    currentlyLearning: ["AWS EC2", "Cloud Architecture", "Security Fundamentals"],
-    dailyRoutine: "2 hours of focused learning + hands-on practice",
-    weeklyGoal: "Complete 1 AWS module + 1 project",
-    currentStreak: "🔥 2 days",
-    motivationLevel: "📈 Maximum"
+    role: "Cloud & Security Engineer in Training",
+    age: 16,
+    location: "Hamburg, DE",
+    code: ["JavaScript", "Python", "Bash", "YAML"],
+    architecture: ["Serverless", "Microservices", "Event-Driven", "AWS"],
+    currentFocus: "Building production-grade cloud infrastructure",
+    challenge: "Mastering AWS & Cybersecurity in 6 months",
+    funFact: "Started coding at 16, targeting cloud engineer role by 17"
 };
 ```
 
-</div>
+---
 
-<br/>
+### `$ cat certifications.json`
 
-## 🎓 Learning Resources
+```json
+{
+  "in_progress": {
+    "AWS_Cloud_Practitioner": {
+      "provider": "Amazon Web Services",
+      "target_date": "2025-12",
+      "progress": "8%",
+      "status": "active"
+    }
+  },
+  "planned": [
+    {
+      "name": "AWS Solutions Architect Associate",
+      "target": "2026-02"
+    },
+    {
+      "name": "CompTIA Security+",
+      "target": "2026-04"
+    }
+  ]
+}
+```
+
+---
+
+### `$ ls -la ./tech_stack`
+
+```bash
+drwxr-xr-x  cloud/
+  ├── aws-ec2          # Compute infrastructure
+  ├── aws-s3           # Object storage
+  ├── aws-lambda       # Serverless functions
+  ├── aws-vpc          # Network architecture
+  └── aws-iam          # Identity & access management
+
+drwxr-xr-x  security/
+  ├── network-security # Firewalls, ACLs, Security Groups
+  ├── encryption       # Data protection
+  ├── iam-policies     # Access control
+  └── threat-modeling  # Security fundamentals
+
+drwxr-xr-x  development/
+  ├── python/          # Automation & scripting
+  ├── javascript/      # Web development
+  ├── git/             # Version control
+  └── linux/           # System administration
+
+drwxr-xr-x  tools/
+  ├── aws-cli          # Cloud management
+  ├── terraform        # Infrastructure as Code (learning)
+  ├── docker           # Containerization (learning)
+  └── vscode           # Primary IDE
+```
+
+---
+
+### `$ cat ./projects/README.md`
+
+<table>
+<tr><td>
+
+#### 📦 [Cloud Security Learning Journey](https://github.com/sylvester-thsly/cloud-security-learning-journey)
+```yaml
+type: Documentation
+description: 6-month intensive learning path
+stack: [AWS, Security, DevOps]
+status: Week 1/26 - Active Development
+features:
+  - Daily progress logs
+  - Hands-on lab exercises
+  - Real-world project implementations
+  - Certification preparation notes
+```
+
+</td></tr>
+<tr><td>
+
+#### 🚀 Upcoming Deployments
+```python
+projects_pipeline = [
+    {
+        "name": "Static Website on S3",
+        "tech": ["S3", "CloudFront", "Route53"],
+        "eta": "Week 2"
+    },
+    {
+        "name": "Serverless REST API",
+        "tech": ["Lambda", "API Gateway", "DynamoDB"],
+        "eta": "Week 6"
+    },
+    {
+        "name": "Auto-Scaling Web App",
+        "tech": ["EC2", "ALB", "Auto Scaling", "RDS"],
+        "eta": "Week 10"
+    }
+]
+```
+
+</td></tr>
+</table>
+
+---
+
+### `$ git log --author="sylvester" --oneline`
+
+```diff
++ 2 days ago    Started AWS Cloud Practitioner training
++ 2 days ago    Completed Module 1: Cloud fundamentals
++ 1 day ago     Learning EC2 compute services
++ 1 day ago     Set up GitHub learning documentation
++ 1 day ago     Configured AWS free tier account with MFA
+```
+
+**Current Streak:** 🔥 2 days  
+**Total Commits:** Building consistency  
+**Lines of Learning:** 2/180 days documented
+
+---
+
+### `$ docker ps -a | grep skills`
 
 <div align="center">
 
-| Platform | Purpose | Status |
-|:---:|:---:|:---:|
-| 📚 AWS Skill Builder | Cloud Practitioner Course | 🟢 Active |
-| 🎥 Professor Messer | Security+ Prep | 🟡 Starting Soon |
-| 💻 TryHackMe | Hands-on Security Labs | 🟡 Starting Soon |
-| 📖 freeCodeCamp | AWS Projects & Tutorials | 🟢 Active |
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 </div>
 
-<br/>
+---
 
-## 🌐 Connect With Me
-
-<div align="center">
-  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](your-linkedin-url)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](your-twitter-url)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email)
-
-</div>
-
-<br/>
-
-## 💭 Random Dev Quote
+### `$ curl -s https://api.github.com/users/sylvester-thsly/stats`
 
 <div align="center">
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+<img src="https://github-readme-stats.vercel.app/api?username=sylvester-thsly&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" height="165">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sylvester-thsly&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" height="165">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=sylvester-thsly&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" width="500">
 
 </div>
 
-<br/>
+---
 
-## 🏅 Achievements
+### `$ tail -f /var/log/learning.log`
 
-<div align="center">
+```log
+[2025-10-11 09:00:00] INFO: AWS account created and secured with MFA
+[2025-10-11 10:30:00] INFO: Completed AWS Cloud Practitioner Module 1
+[2025-10-11 14:45:00] INFO: Understanding Regions and Availability Zones
+[2025-10-12 09:15:00] INFO: Started Module 2: Compute in the Cloud
+[2025-10-12 11:00:00] INFO: Learning EC2 instance types and use cases
+[2025-10-12 14:30:00] INFO: GitHub profile documentation created
+[CURRENT] INFO: Building expertise through consistent daily practice...
+```
 
-![](https://github-profile-trophy.vercel.app/?username=sylvester-thsly&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1)
+---
 
-</div>
+### `$ man methodology`
 
-<br/>
+```
+NAME
+    learning-approach - systematic skill development methodology
+
+SYNOPSIS
+    learn [OPTIONS] --consistency --public --hands-on
+
+DESCRIPTION
+    Self-directed learning program combining:
+      • Structured AWS certification curriculum
+      • Daily hands-on lab practice
+      • Public documentation and accountability
+      • Real-world project implementation
+      • Industry best practices and standards
+
+OPTIONS
+    --daily-commitment    2 hours focused learning
+    --public-learning     Full transparency and documentation  
+    --hands-on-first      Learn by building, not just reading
+    --certification       Industry-recognized validation
+
+TIMELINE
+    Phase 1: Foundation (Months 1-2)
+    Phase 2: Architecture (Months 3-4)  
+    Phase 3: Security (Months 5-6)
+```
+
+---
+
+### `$ echo $CONTACT`
+
+```bash
+#!/bin/bash
+
+# Professional inquiries, collaboration, or just to connect:
+
+EMAIL="sylvestertech.sly@gmail.com"
+LINKEDIN="https://www.linkedin.com/in/sylvester-abekah-78b2bb36a/"
+GITHUB="https://github.com/sylvester-thsly"
+
+echo "Building the future, one commit at a time."
+```
 
 ---
 
 <div align="center">
-  
-### 📈 Profile Stats
 
-![](https://komarev.com/ghpvc/?username=sylvester-thsly&color=blueviolet&style=for-the-badge)
+```
+┌─────────────────────────────────────────────────────────────────┐
+│  "First, solve the problem. Then, write the code."             │
+│                                        - John Johnson           │
+└─────────────────────────────────────────────────────────────────┘
+```
 
-**✨ "The best time to start was yesterday. The second best time is now." ✨**
+![Profile Views](https://komarev.com/ghpvc/?username=sylvester-thsly&style=flat-square&color=58a6ff)
 
-*Last Updated: October 12, 2025*
+**Status:** `Learning Mode Activated` | **Last Updated:** `2025-10-12`
 
 </div>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>

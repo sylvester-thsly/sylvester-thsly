@@ -6,7 +6,7 @@
 
 <div align="center">
 
-```csharp
+```text
 class Developer
 {
     public string Name = "Sylvester";

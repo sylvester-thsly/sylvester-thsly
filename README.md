@@ -28,13 +28,13 @@
 <h3 align="left">Let's Connect</h3>
 
 <p align="left">
-  <a href="mailto:slythesly0@gmail.com">
+  <a href="mailto:sylvesterkwabenaabekah@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail&theme=dark" alt="Email" />
   </a>
-  <a href="https://linkedin.com/in/your-linkedin">
+  <a href="https://www.linkedin.com/in/sylvester-kwabena-abekah-78b2bb36a/">
     <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" alt="LinkedIn" />
   </a>
-  <a href="https://twitter.com/your-twitter">
+  <a href="https://x.com/sylvestertechsl?s=21">
     <img src="https://skillicons.dev/icons?i=twitter&theme=dark" alt="Twitter" />
   </a>
 </p>

@@ -8,10 +8,10 @@
 
 <br/>
 
-- **I'm currently focused on:** Building robust enterprise-level software and Web APIs.
-- **I’m currently learning:** The ins and outs of the `C#` and `.NET` ecosystem, along with clean architecture.
-- **My current goal:** Exploring backend technologies to prepare for my upcoming software engineering internship.
-- **Fun fact:** I believe the best way to master coding is by building practical, real-world tools!
+- **Current focus:** Forging reliable systems that compound value over time.
+- **Currently learning:** The deep architecture of C# and .NET, focusing on getting 1% better every day.
+- **Current goal:** Falling to the level of my systems, laying the groundwork for the next major step in my career.
+- **Fun fact:** "Habits are the compound interest of self-improvement"—a philosophy I apply directly to software development.
 
 <br/>
 

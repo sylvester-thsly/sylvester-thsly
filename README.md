@@ -1,20 +1,20 @@
 # 👋 Hello there! I'm Sylvester
 
-I am a self-taught developer driven by a passion for creating efficient and scalable software. Right now, I am heavily focused on the **C# / .NET ecosystem** and continuously improving my understanding of software architecture.
+I am a self-taught developer currently on a journey to master the **C# / .NET ecosystem**. As someone who is actively learning and growing every day, I am passionate about understanding how things work under the hood.
 
-I spend my time building practical applications, exploring new technologies, and refining my object-oriented design skills.
+I dedicate my time to exploring backend technologies, refining my object-oriented design skills, and turning my learning directly into practical applications.
 
 ---
 
-### 🚀 Current Focus
+### 🚀 What I'm Learning & Building
 
-- Building robust backend systems and APIs with **ASP.NET Core**.
-- Integrating modern practices like **Entity Framework Core**, **Dependency Injection**, and clean architecture.
-- Designing enterprise-level solutions (such as my recent work on shipping and logistics systems).
+- Developing scalable backend systems and APIs with **ASP.NET Core**.
+- Implementing modern practices like **Entity Framework Core**, **Dependency Injection**, and clean architecture.
+- Exploring enterprise-level solutions (like my recent work on shipping and logistics platforms).
 
 ### 🛠️ Technologies & Tools
 
-Here is what I work with on a daily basis:
+Here is what I am currently working with:
 
 **Languages & Backend**
 `C#` ｜ `.NET 8.0` ｜ `ASP.NET Core`
@@ -29,11 +29,11 @@ Here is what I work with on a daily basis:
 
 ### 📫 Let's Connect
 
-I am actively building my professional portfolio and am always open to connecting with other developers.
+I am actively building out my project portfolio and would love to connect with other developers or mentors!
 
 - **Email:** [slythesly0@gmail.com](mailto:slythesly0@gmail.com)
 - **LinkedIn:** [Add your LinkedIn link here](#)
 
 <br/>
 
-> *"Writing clean code is what you must do in order to call yourself a professional."*
+> *"Learning in public, one commit at a time."*

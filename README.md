@@ -6,7 +6,6 @@
 # 👋 Hi, I'm Sylvester
 
 **Aspiring Backend Developer** | Building Foundations in Programming
-
 ---
 
 

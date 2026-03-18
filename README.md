@@ -4,10 +4,6 @@
 
 <h1 align="center">Hi there, I'm Sylvester</h1>
 
-<h3 align="center">I'm a self-taught developer, problem solver, and backend enthusiast.</h3>
-
-<br/>
-
 <div align="center">
 
 ```csharp
@@ -31,6 +27,8 @@ class Developer
 
 </div>
 
+<h3 align="center">I'm a self-taught developer, problem solver, and backend enthusiast.</h3>
+
 <br/>
 
 <h3 align="left">My Tech Stack</h3>
@@ -40,23 +38,6 @@ class Developer
     <img src="https://skillicons.dev/icons?i=cs,dotnet,js,html,css,git,github,vscode&theme=dark" alt="My Skills" />
   </a>
 </p>
-
-<br/>
-
-<h3 align="left">GitHub Stats & Contributions</h3>
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=sylvester-thsly&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sylvester-thsly&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="150" />
-</p>
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sylvester-thsly/sylvester-thsly/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sylvester-thsly/sylvester-thsly/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/sylvester-thsly/sylvester-thsly/output/github-contribution-grid-snake.svg">
-  </picture>
-</div>
 
 <br/>
 

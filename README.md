@@ -1,21 +1,39 @@
-# Hi, I'm Sylvester 👋
+# 👋 Hello there! I'm Sylvester
 
-I'm a 16-year-old self-taught developer from Hamburg, Germany. I am passionate about building software and am currently laser-focused on mastering **C# and the .NET ecosystem**.
+I am a self-taught developer driven by a passion for creating efficient and scalable software. Right now, I am heavily focused on the **C# / .NET ecosystem** and continuously improving my understanding of software architecture.
 
-I am preparing for my first software engineering internship at **Cargonerds** starting this August, and I am spending my time building a strong portfolio of practical, real-world applications.
+I spend my time building practical applications, exploring new technologies, and refining my object-oriented design skills.
 
-## 🚀 Current Focus
-- **Languages & Frameworks:** C#, .NET 8.0, ASP.NET Core
-- **Goals:** Deepen my understanding of object-oriented programming, clean architecture, and building robust backend services.
-- **Projects:** Building enterprise-grade tools and logistics software (e.g., Akwaaba Scout).
+---
 
-## 🧰 Tech Stack
-- **Backend:** C#, .NET
-- **Frontend:** HTML, CSS, JavaScript
-- **Tools:** Git, GitHub, VS Code, Windows Terminal
+### 🚀 Current Focus
 
-## 📫 Get in Touch
-- **Email:** slythesly0@gmail.com
-- **LinkedIn:** [Open to Connections](#) *(Add your link here!)*
+- Building robust backend systems and APIs with **ASP.NET Core**.
+- Integrating modern practices like **Entity Framework Core**, **Dependency Injection**, and clean architecture.
+- Designing enterprise-level solutions (such as my recent work on shipping and logistics systems).
 
-*"Learning in public, one commit at a time."*
+### 🛠️ Technologies & Tools
+
+Here is what I work with on a daily basis:
+
+**Languages & Backend**
+`C#` ｜ `.NET 8.0` ｜ `ASP.NET Core`
+
+**Frontend**
+`JavaScript` ｜ `HTML5` ｜ `CSS3`
+
+**Tools & Platforms**
+`Git` ｜ `GitHub` ｜ `VS Code` ｜ `Windows Terminal`
+
+---
+
+### 📫 Let's Connect
+
+I am actively building my professional portfolio and am always open to connecting with other developers.
+
+- **Email:** [slythesly0@gmail.com](mailto:slythesly0@gmail.com)
+- **LinkedIn:** [Add your LinkedIn link here](#)
+
+<br/>
+
+> *"Writing clean code is what you must do in order to call yourself a professional."*

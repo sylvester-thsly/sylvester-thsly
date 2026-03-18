@@ -1,39 +1,46 @@
-# 👋 Hello there! I'm Sylvester
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=sylvester-thsly&label=Profile%20views&color=007ACC&style=flat" alt="sylvester-thsly" />
+</p>
 
-I am a self-taught developer currently on a journey to master the **C# / .NET ecosystem**. As someone who is actively learning and growing every day, I am passionate about understanding how things work under the hood.
+<h1 align="center">Hi there, I'm Sylvester 👋</h1>
 
-I dedicate my time to exploring backend technologies, refining my object-oriented design skills, and turning my learning directly into practical applications.
-
----
-
-### 🚀 What I'm Learning & Building
-
-- Developing scalable backend systems and APIs with **ASP.NET Core**.
-- Implementing modern practices like **Entity Framework Core**, **Dependency Injection**, and clean architecture.
-- Exploring enterprise-level solutions (like my recent work on shipping and logistics platforms).
-
-### 🛠️ Technologies & Tools
-
-Here is what I am currently working with:
-
-**Languages & Backend**
-`C#` ｜ `.NET 8.0` ｜ `ASP.NET Core`
-
-**Frontend**
-`JavaScript` ｜ `HTML5` ｜ `CSS3`
-
-**Tools & Platforms**
-`Git` ｜ `GitHub` ｜ `VS Code` ｜ `Windows Terminal`
-
----
-
-### 📫 Let's Connect
-
-I am actively building out my project portfolio and would love to connect with other developers or mentors!
-
-- **Email:** [slythesly0@gmail.com](mailto:slythesly0@gmail.com)
-- **LinkedIn:** [Add your LinkedIn link here](#)
+<h3 align="center">I'm a self-taught developer, problem solver, and backend enthusiast 💻.</h3>
 
 <br/>
 
-> *"Learning in public, one commit at a time."*
+- 🔭 **I'm currently focused on:** Building robust enterprise-level software and Web APIs.
+- 🌱 **I’m currently learning:** The ins and outs of the `C#` and `.NET` ecosystem, along with clean architecture.
+- 🎯 **My current goal:** Exploring backend technologies to prepare for my upcoming software engineering internship.
+- ⚡ **Fun fact:** I believe the best way to master coding is by building practical, real-world tools!
+
+<br/>
+
+<h3 align="left">⚙️ My Tech Stack</h3>
+
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=cs,dotnet,js,html,css,git,github,vscode&theme=dark" alt="My Skills" />
+  </a>
+</p>
+
+<br/>
+
+<h3 align="left">📫 Let's Connect</h3>
+
+<p align="left">
+  <a href="mailto:slythesly0@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail&theme=dark" alt="Email" />
+  </a>
+  <a href="https://linkedin.com/in/your-linkedin">
+    <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" alt="LinkedIn" />
+  </a>
+  <a href="https://twitter.com/your-twitter">
+    <img src="https://skillicons.dev/icons?i=twitter&theme=dark" alt="Twitter" />
+  </a>
+</p>
+
+<br/>
+
+<div align="center">
+  <i>"Learning in public, one commit at a time."</i>
+</div>

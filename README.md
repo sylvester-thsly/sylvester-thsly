@@ -8,10 +8,28 @@
 
 <br/>
 
-- **Current focus:** Forging reliable systems that compound value over time.
-- **Currently learning:** The deep architecture of C# and .NET, focusing on getting 1% better every day.
-- **Current goal:** Falling to the level of my systems, laying the groundwork for the next major step in my career.
-- **Fun fact:** "Habits are the compound interest of self-improvement"—a philosophy I apply directly to software development.
+<div align="center">
+
+```csharp
+class Developer
+{
+    public string Name = "Sylvester";
+    public string ExpectedGoal = "1% Better Every Day";
+    public string[] TechStack = { "C#", ".NET 8", "Clean Architecture" };
+
+    public void ExecuteHabits()
+    {
+        while (true) 
+        { 
+            Code(); 
+            Learn(); 
+            Compound(); 
+        }
+    }
+}
+```
+
+</div>
 
 <br/>
 
@@ -22,6 +40,23 @@
     <img src="https://skillicons.dev/icons?i=cs,dotnet,js,html,css,git,github,vscode&theme=dark" alt="My Skills" />
   </a>
 </p>
+
+<br/>
+
+<h3 align="left">GitHub Stats & Contributions</h3>
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=sylvester-thsly&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sylvester-thsly&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="150" />
+</p>
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sylvester-thsly/sylvester-thsly/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sylvester-thsly/sylvester-thsly/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/sylvester-thsly/sylvester-thsly/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
 
 <br/>
 
